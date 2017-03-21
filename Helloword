@@ -697,6 +697,14 @@ public void E(){
 public void E(){
 
 }
+public B(){
+}
+public B(){
+}
+public B(){
+}
+public B(){
+}
 public void a(){
   System.pring.nt(11111111111)
 }
